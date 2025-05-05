@@ -7,3 +7,5 @@ This is second line
 This is second line
 Ok
 
+This line is added by Master
+
